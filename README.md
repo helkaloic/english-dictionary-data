@@ -1,9 +1,9 @@
-# English Dictionary Data
-An English Dictionary Data in JSON format - a list of words, with meanings.
+# Simple English Dictionary
+An Simple English Dictionary in JSON format - a list of words, with meanings, synonyms and antonyms.
 
 **_Note:_**
 
-This project is cloned from [here](https://github.com/nightblade9/simple-english-dictionary).
+This project is not mine 🙅‍♂️, here is the [author](https://github.com/nightblade9/simple-english-dictionary) ⭐.
 
 # Usage
 
@@ -15,7 +15,11 @@ You can consume the data in a variety of formats:
 
 My adjustment:
 
-- `text` contains text file includes `20k_words.txt` ([source](https://github.com/first20hours/google-10000-english/blob/master/20k.txt)), `bad-words.txt` ([source](https://www.cs.cmu.edu/~biglou/resources/bad-words.txt)) and `selected.txt` which is the result of filtering vocabulary that does not contain bad words.
+- `text` contains text file includes `20k_words.txt` ([source](https://github.com/first20hours/google-10000-english/blob/master/20k.txt)), `bad-words.txt` ([source](https://www.cs.cmu.edu/~biglou/resources/bad-words.txt)) and `selected.txt` which is the result of filtering words that does not contain bad words.
+
+- `filter_swear.py` to remove bad words from `20k_words.txt`.
+
+- `selected.py` to export `processed/selected.json` file.
 
 # Creating your own Filtered List
 
@@ -23,13 +27,13 @@ You will need Python 3.x. Simply update `filter_Words.txt` and run `python3 filt
 
 # Run
 
-To create a new selected words text file in `text/selected.txt`:
+To create a new selected words `text` file in `text/selected.txt`, run:
 
 ```
 python filter_swear.py
 ```
 
-To create a new selected json file in `processed/selected.json`:
+To create a new selected words `json` file in `processed/selected.json`, run:
 
 ```
 python selected.py
@@ -42,4 +46,3 @@ Both of them have no swear words.
 `processed/filtered.json` has `121297` words.
 
 `processed/selected.json` has `16181` words.
-"# english-dictionary-data" 
