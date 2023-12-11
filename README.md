@@ -1,5 +1,5 @@
 # Simple English Dictionary
-An Simple English Dictionary in JSON format - a list of words, with meanings, synonyms and antonyms.
+A Simple English Dictionary in JSON format - a list of words, with meanings, synonyms and antonyms.
 
 **_Note:_**
 
@@ -13,7 +13,7 @@ You can consume the data in a variety of formats:
 - `processed/merged.json` contains a single JSON file with all the words in it.
 - `processed/filtered.json` contains a version with filtered-out words, meanings, synonyms, and antonyms; you can see the list of filtered words in `data/filter_words.txt`
 
-My adjustment:
+# My adjustment:
 
 - `text` contains text file includes `20k_words.txt` ([source](https://github.com/first20hours/google-10000-english/blob/master/20k.txt)), `bad-words.txt` ([source](https://www.cs.cmu.edu/~biglou/resources/bad-words.txt)) and `selected.txt` which is the result of filtering words that does not contain bad words.
 
