@@ -6,7 +6,7 @@ select_words = []
 
 print("Read the files...")
 
-# Read google-10000-english-no-swears.txt file
+# Read selected.txt file
 with open(os.path.join("text", "selected.txt"), "r") as select_file:
     select_words = [x.strip().lower() for x in select_file.readlines()]
 
@@ -23,7 +23,8 @@ selected_json = {}
 # Iterate through filtered.json and select only meaningful words
 for word, data in filtered_json.items():
     if word.lower() in select_words:
-        selected_json[word] = data
+        if len(data["MEANINGS"]) != 0:
+            selected_json[word] = data
 
 print("Seleted words (json): ", len(selected_json), "words")
 
