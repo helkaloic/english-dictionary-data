@@ -734,6 +734,7 @@ angles
 anglican
 anglo
 angola
+angry
 anguilla
 angular
 angus
@@ -1908,6 +1909,7 @@ bizrate
 bj
 bk
 bl
+black
 blackberry
 blackboard
 blackburn
@@ -2421,6 +2423,7 @@ burke
 burkina
 burlington
 burma
+burn
 burned
 burner
 burners
@@ -3143,6 +3146,7 @@ ciara
 cid
 cider
 cigar
+cigarette
 cigarettes
 cigars
 cimel
@@ -3457,6 +3461,7 @@ colonel
 colonial
 colonies
 colony
+color
 colorado
 colorful
 coloring
@@ -4187,6 +4192,7 @@ cpus
 cq
 cr
 crab
+crack
 cracked
 cracker
 crackers
@@ -4204,6 +4210,7 @@ cranberry
 crane
 crank
 craps
+crash
 crashed
 crashes
 crashing
@@ -4554,6 +4561,7 @@ ddr
 dds
 de
 dea
+dead
 deadline
 deadlines
 deadly
@@ -4569,6 +4577,7 @@ dealt
 dealtime
 dean
 dear
+death
 deaths
 deb
 debate
@@ -4981,8 +4990,11 @@ dictionary
 did
 didnt
 didrex
+die
 diecast
+died
 diego
+dies
 diesel
 diet
 dietary
@@ -5075,6 +5087,7 @@ directv
 directx
 dirk
 dirt
+dirty
 dis
 disabilities
 disability
@@ -5140,6 +5153,8 @@ discusses
 discussing
 discussion
 discussions
+disease
+diseases
 dish
 dishes
 dishnetwork
@@ -5211,6 +5226,7 @@ dit
 ditch
 div
 diva
+dive
 diver
 divers
 diverse
@@ -5442,6 +5458,7 @@ drugs
 drum
 drummer
 drums
+drunk
 drupal
 dry
 dryer
@@ -6519,6 +6536,7 @@ fast
 fasteners
 faster
 fastest
+fat
 fatal
 fate
 father
@@ -6556,6 +6574,7 @@ fcc
 fd
 fda
 fe
+fear
 feared
 fears
 feasibility
@@ -6747,6 +6766,7 @@ fins
 fiona
 fioricet
 fir
+fire
 firearm
 firearms
 fired
@@ -7544,6 +7564,7 @@ goals
 goat
 goats
 goblet
+god
 goddess
 godfather
 gods
@@ -8082,6 +8103,7 @@ helicopter
 helicopters
 helium
 helix
+hell
 hello
 helm
 helmet
@@ -8456,6 +8478,7 @@ husband
 husbands
 hush
 huskies
+husky
 hussein
 hustle
 hut
@@ -8564,6 +8587,7 @@ ik
 il
 ile
 ill
+illegal
 illegally
 illicit
 illinois
@@ -9333,6 +9357,7 @@ jessie
 jet
 jets
 jeux
+jew
 jewel
 jewellery
 jewelry
@@ -9589,7 +9614,12 @@ kidney
 kids
 kiev
 kijiji
+kill
+killed
+killer
 killers
+killing
+kills
 kilometers
 kilometres
 kim
@@ -10448,6 +10478,7 @@ macros
 macs
 macworld
 macy
+mad
 madagascar
 madam
 madame
@@ -11964,6 +11995,7 @@ nudity
 nuevo
 nuggets
 nuisance
+nuke
 null
 num
 number
@@ -16282,6 +16314,7 @@ sort
 sorted
 sorting
 sorts
+sos
 sought
 soul
 souls
@@ -16832,6 +16865,7 @@ stuffed
 stuffing
 stunning
 stunt
+stupid
 sturdy
 stuttgart
 style

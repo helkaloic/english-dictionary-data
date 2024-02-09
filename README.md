@@ -45,4 +45,4 @@ Both of them have no swear words.
 
 `processed/filtered.json` contains `121297` words.
 
-`processed/selected.json` contains `10568` words.
+`processed/selected.json` contains `10595` words.
